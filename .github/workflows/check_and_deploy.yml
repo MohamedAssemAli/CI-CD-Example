@@ -1,7 +1,3 @@
-- name: Sign Android release
-  uses: r0adkll/sign-android-release@v1
-
-
 name: Test and deploy
 
 on: push
